@@ -5,7 +5,7 @@ public class Main {
         // Bubble sort = compare elements and swap if not in order
         // Quadratic time O(n^2)
 
-        int array[] = {9, 1, 2, 8, 7, 3, 6, 4, 5};
+        int array[] = {9, 1, 8, 2, 7, 3, 6, 4, 5};
         
         bubbleSort(array);
 
