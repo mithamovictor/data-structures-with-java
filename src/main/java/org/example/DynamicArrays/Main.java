@@ -1,13 +1,11 @@
-package org.example;
+package org.example.DynamicArrays;
 
-import java.util.ArrayList;
-
-public class DynamicArray {
+public class Main {
     public static void main(String[] args) {
 
 //        ArrayList<String> arrayList = new ArrayList<>();
 
-        DynamicArrayImpl dynamicArray = new DynamicArrayImpl();
+        DynamicArray dynamicArray = new DynamicArray();
 
         dynamicArray.add("A");
         dynamicArray.add("B");
