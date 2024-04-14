@@ -1,4 +1,4 @@
-package org.example.Graphs;
+package org.example.AdjacencyMatrix;
 
 public class Node {
     char data;

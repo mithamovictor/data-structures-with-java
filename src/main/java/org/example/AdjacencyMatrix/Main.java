@@ -1,6 +1,6 @@
-package org.example.Graphs;
+package org.example.AdjacencyMatrix;
 
-public class AdjacencyMatrix {
+public class Main {
     public static void main(String[] args) {
         // Adjacency matrix = A 2D array to store 1s and 0s to represent edges
         //                    # of rows =   # of unique nodes
